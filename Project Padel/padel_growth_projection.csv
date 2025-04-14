@@ -1,0 +1,36 @@
+area,tahun,jumlah_lapangan,jumlah_pemain_ribu,pendapatan_industri_miliar
+Jakarta Selatan,2023,20,15,50
+Jakarta Selatan,2024,27,25,85
+Jakarta Selatan,2025,35,40,130
+Jakarta Selatan,2026,40,60,180
+Jakarta Selatan,2027,45,80,220
+Jakarta Barat/Timur,2023,8,5,15
+Jakarta Barat/Timur,2024,11,10,30
+Jakarta Barat/Timur,2025,15,20,60
+Jakarta Barat/Timur,2026,20,30,90
+Jakarta Barat/Timur,2027,25,40,120
+BSD/Tangerang Selatan,2023,5,3,10
+BSD/Tangerang Selatan,2024,7,8,25
+BSD/Tangerang Selatan,2025,12,15,45
+BSD/Tangerang Selatan,2026,18,25,75
+BSD/Tangerang Selatan,2027,25,35,105
+Tangerang,2023,3,2,6
+Tangerang,2024,4,5,15
+Tangerang,2025,8,10,30
+Tangerang,2026,12,18,54
+Tangerang,2027,15,25,75
+Bekasi,2023,1,1,3
+Bekasi,2024,2,3,9
+Bekasi,2025,5,8,24
+Bekasi,2026,10,15,45
+Bekasi,2027,15,20,60
+Depok,2023,1,1,3
+Depok,2024,2,3,9
+Depok,2025,5,7,21
+Depok,2026,8,12,36
+Depok,2027,10,15,45
+Total Indonesia,2023,45,25,87
+Total Indonesia,2024,65,50,173
+Total Indonesia,2025,85,100,310
+Total Indonesia,2026,100,150,480
+Total Indonesia,2027,110,200,625
