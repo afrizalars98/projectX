@@ -1,5 +1,6 @@
 # Custom ignores
 important_data.md
+wondrsm.md
 
 # Python
 __pycache__/
