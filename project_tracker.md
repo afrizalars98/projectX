@@ -1,6 +1,9 @@
-# 🧠 Roadmap Konten: Data Bicara – Peluang Usaha dari Data & Tren 2025
+# Roadmap Konten: Data Bicara – Peluang Usaha dari Data & Tren 2025
 
 1. Padel dalam Angka: Layak Investasi atau Bubble Hype?
+Status: In Progress Report
+
+
 
 Mapping sebaran lapangan + analisis ROI + proyeksi demand 2025
 📌 “Lapangan padel makin hype, tapi apakah masih worth untuk dibuka sekarang?”
@@ -81,19 +84,6 @@ Berita Ringan:
 9. Apa itu CRISPR?
 10. Firebase AI Developer
 11. AI Avatar in Court
-
-
-
-
-
-kebutuhan development code:
-1. scrapping usaha-usaha/umkm pada googlemaps dengan kata kunci
-2. scrapping semua review dari usaha/umkm dengan kata kunci
-3. scrapping account usaha-usaha/umkm pada instagram dengan kata kunci
-4. scrapping semua content dan review dari instagram dengan memasukan nama account
-5. scrapping account usaha/umkm pada gofood dengan kata kunci
-6. scrapping review dan harga dari gofood dengan kata kunci
-
 
 
 
